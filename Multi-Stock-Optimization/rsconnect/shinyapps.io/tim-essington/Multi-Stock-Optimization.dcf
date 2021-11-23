@@ -1,0 +1,12 @@
+name: Multi-Stock-Optimization
+title: Multi-Stock-Optimization
+username:
+account: tim-essington
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3618920
+bundleId: 4211308
+url: https://tim-essington.shinyapps.io/Multi-Stock-Optimization/
+when: 1613069587.09521
+asMultiple: FALSE
+asStatic: FALSE

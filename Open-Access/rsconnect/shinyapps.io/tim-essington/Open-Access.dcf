@@ -1,0 +1,12 @@
+name: Open-Access
+title: Open-Access
+username:
+account: tim-essington
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3629509
+bundleId: 4227720
+url: https://tim-essington.shinyapps.io/Open-Access/
+when: 1613437002.06649
+asMultiple: FALSE
+asStatic: FALSE
