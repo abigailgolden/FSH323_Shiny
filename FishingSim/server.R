@@ -58,7 +58,7 @@ shinyServer(function(input, output) {
       bty = "n",
       cex = text.mult
     )
-    output <- rep(NA, times = 20)
+    output <- rep(NA, times = 1000)
     output[1] = n.start
     n.loops <- length(output)
     if (prodtype == "const")
