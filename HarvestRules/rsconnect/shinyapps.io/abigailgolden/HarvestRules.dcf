@@ -1,0 +1,13 @@
+name: HarvestRules
+title: HarvestRules
+username:
+account: abigailgolden
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8069089
+bundleId: 6749514
+url: https://abigailgolden.shinyapps.io/HarvestRules/
+when: 1674082930.09531
+lastSyncTime: 1674082930.09532
+asMultiple: FALSE
+asStatic: FALSE
